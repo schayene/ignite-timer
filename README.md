@@ -2,4 +2,4 @@
 
 ## Link do projeto
 
-https://schayene.github.io/ignite-timer/
+https://ignite-timer-phi-sepia.vercel.app/
