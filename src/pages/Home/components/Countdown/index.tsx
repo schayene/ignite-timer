@@ -28,6 +28,8 @@ export function Countdown() {
           markCurrentCycleAsFinished();
           setSecondsPassed(totalSeconds);
           clearInterval(interval);
+          document.title = "Ciclo finalizado!";
+          alert("Parabéns! Ciclo finalizado.");
         } else {
           setSecondsPassed(secondsDifference);
         }
